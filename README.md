@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**mariahiguera2210/mariahiguera2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#✨ ABOUT ME ✨ 
 
-Here are some ideas to get you started:
+Hola, soy Maria Angélcia, una Front End Developer Jr con una gran pasión por el diseño y el desarrollo web. Mi objetivo es crear experiencias web hermosas y atractivas para los usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia manejando HTML, CSS y JavaScript, también me siento cómodo trabajando con herramientas de diseño como Figma y actualmente estoy aprendiendo sobre React en el proyecto [DEV003-burger-queen-api-client](https://github.com/mariahiguera2210/DEV003-burger-queen-api-client). 
+
+
+##⚡ Fun facts :
+- Me gusta leer
+- Me gusta bailar jazz, danza contemporanea
+- Tengo inglés avanzado
+
+
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+ <a href="https://procreate.com/" target="_blank" rel="noreferrer"> <img src="./images/Procreate.png" alt="figma" width="40" height="40"/> </a>  </p>
+
+
