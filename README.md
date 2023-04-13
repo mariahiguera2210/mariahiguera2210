@@ -3,7 +3,7 @@
 
 Hola, soy Maria Angélica, una Front End Developer Jr con una gran pasión por el diseño y el desarrollo web. Mi objetivo es crear experiencias web hermosas y atractivas para los usuarios.
 
-Tengo experiencia manejando HTML, CSS y JavaScript, también me siento cómodo trabajando con herramientas de diseño como Figma y actualmente estoy aprendiendo sobre React en el proyecto [DEV003-burger-queen-api-client](https://github.com/mariahiguera2210/DEV003-burger-queen-api-client). 
+Tengo experiencia manejando HTML, CSS y JavaScript, también me siento cómoda trabajando con herramientas de diseño como Figma y actualmente estoy aprendiendo sobre React en el proyecto [DEV003-burger-queen-api-client](https://github.com/mariahiguera2210/DEV003-burger-queen-api-client). 
 
 
 ## ⚡ Fun facts :
