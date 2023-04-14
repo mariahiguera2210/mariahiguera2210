@@ -1,4 +1,4 @@
-
+![header](./images/maria.gif)
 # ✨ ABOUT ME ✨ 
 
 Hola, soy Maria Angélica, una Front End Developer Jr con una gran pasión por el diseño y el desarrollo web. Mi objetivo es crear experiencias web hermosas y atractivas para los usuarios.
