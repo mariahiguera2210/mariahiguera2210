@@ -1,16 +1,10 @@
 ![header](./images/maria.gif)
 # ✨ ABOUT ME ✨ 
 
-Hello, I'm Maria Angélica, a Junior Front End Developer with a great passion for design and web development. My goal is to create beautiful and engaging web experiences for users.
-
-I have experience working with HTML, CSS, and JavaScript, and I am also comfortable using design tools like Figma.
-
+Hello, I'm Maria Angélica, I am a fullstack developer with a background in Industrial Engineering, bringing a blend of analytical skills from cost analysis and advanced Excel use. My tech journey started during a three-year stay in the United States, where I also enhanced my English skills and self-taught web development fundamentals. Proficient in front-end technologies like HTML, JavaScript, CSS, and Angular, I also have back-end expertise in Java, Postgres, CRUD operations, and JWT authentication. My engineering background and self-driven tech education enable me to tackle challenges with a unique analytical and efficiency-oriented perspective.
 
 # ✨ SOBRE MI ✨ 
-Hola, soy Maria Angélica, una Front End Developer Jr con una gran pasión por el diseño y el desarrollo web. Mi objetivo es crear experiencias web hermosas y atractivas para los usuarios.
-
-Tengo experiencia manejando HTML, CSS y JavaScript, también me siento cómoda trabajando con herramientas de diseño como Figma.
-
+Hola, soy Maria Angélica, Soy desarrolladora fullstack con formación en Ingeniería Industrial, aportando una combinación de habilidades analíticas provenientes del análisis de costos y el uso avanzado de Excel. Mi camino en la tecnología comenzó durante una estancia de tres años en Estados Unidos, donde además perfeccioné mi inglés y me inicié de forma autodidacta en el desarrollo web. Tengo dominio en tecnologías front-end como HTML, JavaScript, CSS y Angular, y experiencia en back-end con Java, Postgres, operaciones CRUD y autenticación JWT. Mi formación en ingeniería y mi educación tecnológica autodirigida me permiten enfrentar desafíos con una perspectiva analítica y orientada a la eficiencia.
 
 ## ⚡ Fun facts :
 - I like to read
