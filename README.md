@@ -1,5 +1,5 @@
 
-![Header](https://github.com/mariahiguera2210/mariahiguera2210/assets/119275546/1b161d6d-3c54-4225-9864-2566bd047f98)
+![Purple-fullstack](https://github.com/mariahiguera2210/mariahiguera2210/assets/119275546/823b1a2f-12ee-45b0-913f-d30c188eda30)
 
 # ✨ ABOUT ME ✨ 
 
