@@ -1,4 +1,4 @@
-![header](./images/maria.gif)
+![header](../maria/OneDrive/Imágenes/imagenes/Purple-fullstack.gif)
 # ✨ ABOUT ME ✨ 
 
 Hello, I'm Maria Angélica, I am a fullstack developer with a background in Industrial Engineering, bringing a blend of analytical skills from cost analysis and advanced Excel use. My tech journey started during a three-year stay in the United States, where I also enhanced my English skills and self-taught web development fundamentals. Proficient in front-end technologies like HTML, JavaScript, CSS, and Angular, I also have back-end expertise in Java, Postgres, CRUD operations, and JWT authentication. My engineering background and self-driven tech education enable me to tackle challenges with a unique analytical and efficiency-oriented perspective.
